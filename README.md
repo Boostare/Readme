@@ -18,6 +18,9 @@
 **Socials** 💻
 
 [![Discord](https://img.shields.io/badge/Discord-👾-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1390746822624153743)
+[![NameMC](https://img.shields.io/badge/NameMC-_Boostare-00ff00?style=for-the-badge&logo=namemc&logoColor=white)](https://namemc.com/profile/_Boostare)
+[![Telegram](https://img.shields.io/badge/Telegram-💬-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Boostaree)
+
 
 
 
