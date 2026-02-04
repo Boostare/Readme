@@ -1,4 +1,4 @@
-# Ciao, sono Boostare!  <img src="https://media.discordapp.net/attachments/1460751851807969353/1468674124317724919/68747470733a2f2f70372e6869636c69706172742e636f6d/707265766965772f3734382f3737382f343439/67686f73742d706978656c2d6172742d6769662d696d6167652d637574652d706978656c2e6a7067-removebg-preview.png?ex=6984e0dd&is=69838f5d&hm=e46ee18a708f5d02bace6678433c96e53625ab7a0f643a0d6ff07ad8bd3d8292&=&format=webp&quality=lossless" alt="Ghost" height="32px">
+# Ciao, sono Boostare!  <img src="https://raw.githubusercontent.com/Boostare/Readme/main/ghost.png" alt="Ghost" height="32px">
 
 
 
