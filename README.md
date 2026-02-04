@@ -2,7 +2,7 @@
 
 **Linguaggi & Tecnologie** 📖
 
-- GIT <img src="https://raw.githubusercontent.com/Boostare/Readme/main/git.png" alt="git" height="32px"> 
+- GIT <img src="https://raw.githubusercontent.com/Boostare/Readme/main/git.png" alt="git" height="24px"> 
 
 
 
